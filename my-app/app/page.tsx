@@ -32,12 +32,7 @@ export default function Home() {
   return (
     <div>
       <section className="relative w-full h-[92vh] overflow-hidden ">
-        {/* Background gradient */}
-        {/* <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,#d27cbf,#b34aa4,#5a189a)]"></div> */}
-        {/* <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,#fff9c4,#fdd835,#f57f17)]"></div> */}
-
-
-        {/* Sliding Images */}
+        
         <div className="absolute inset-0 flex items-center justify-center mb-40">
           <div className="relative w-full h-screen mt-30 overflow-hidden">
             {images.map((src, index) => (
