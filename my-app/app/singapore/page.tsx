@@ -3,15 +3,15 @@ import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const images = [
-    "/images/singapore2.jpeg",
-    "/images/singapore3.jpeg",
-    "/images/singapore4.jpeg",
-    "/images/singapore5.jpeg",
-    "/images/singapore6.jpeg",
-    "/images/singapore1.jpeg",
-    "/images/singapore7.jpeg",
-    "/images/singapore8.jpeg",
-    "/images/singapore9.jpeg",
+    "/images/Singapore2.jpeg",
+    "/images/Singapore3.jpeg",
+    "/images/Singapore4.jpeg",
+    "/images/Singapore5.jpeg",
+    "/images/Singapore6.jpeg",
+    "/images/Singapore1.jpeg",
+    "/images/Singapore7.jpeg",
+    "/images/Singapore8.jpeg",
+    "/images/Singapore9.jpeg",
 
 
 ];

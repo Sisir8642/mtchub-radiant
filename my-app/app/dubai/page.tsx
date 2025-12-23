@@ -3,11 +3,11 @@ import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const images = [
-    "/images/dubai1.jpeg",
-    "/images/dubai2.jpeg",
-    "/images/dubai3.jpeg",
-    "/images/dubai4.jpeg",
-    "/images/dubai5.jpeg",
+    "/images/Dubai1.jpeg",
+    "/images/Dubai2.jpeg",
+    "/images/Dubai3.jpeg",
+    "/images/Dubai4.jpeg",
+    "/images/Dubai5.jpeg",
 
 ];
 
